@@ -23,7 +23,7 @@ Examined a USB drive image belonging to a person of interest. Two key files were
 
 - **Sylvias Assets.xls** – A spreadsheet documenting financial holdings totaling $2,796,000.00 
   (Stocks, Bonds, Real Estate, Annuities, Savings Account, Life Insurance)
-- **suicide1.txt** – A plain text note expressing emotional distress, signed by Sylvia
+- **distressnote.txt** – A plain text note expressing emotional distress, signed by Sylvia
 
 **Key Findings:**  
 The combination of the financial spreadsheet and the personal note provided relevant 
